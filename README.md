@@ -31,7 +31,9 @@ o	Salesperson Details
 
 •	Key Fields: 
 o	Sales, Expenses, Profit, Profit %, Boxes, Date, Category, Product, Salesperson
+
 5. Calculations and Formulas Here are some essential calculations used to power the dashboard:
+
 •	Profit Calculation:
 Profit = Sales - Expenses
 
