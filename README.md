@@ -52,7 +52,10 @@ Total Sales = SUM(Sales)
 5. Insights and Use Cases With this dashboard, users can:
    
 •	Track sales trends and identify peak periods.
+
 •	Assess salesperson performance and allocate incentives.
+
 •	Discover the most profitable products and categories.
+
 •	Use interactive filters for dynamic data exploration.
 
