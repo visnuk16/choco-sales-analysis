@@ -2,13 +2,19 @@ Sales Dashboard Project
 1. Project Overview This sales dashboard is designed to provide a comprehensive overview of sales performance, product analysis, and salesperson metrics. Built using Excel, the dashboard aggregates sales, profit, and product data, visualizing key business indicators for better decision-making.
 
 2. Features and Components
+
 •	Key Metrics Overview:
+
 o	Total Sales: ₹9,92,271.00
+
 o	Total Boxes Sold: 64,557
+
 o	Profit Percentage: 80.7%
 
 •	Top 5 Products:
+
 o	Visual bar chart highlighting the top-performing products.
+
 o	Helps quickly identify the highest revenue-generating products.
 
 •	Trend Analysis:
